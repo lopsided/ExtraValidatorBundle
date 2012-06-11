@@ -1,0 +1,22 @@
+{
+    "name": "javiacei/extra-validator-bundle",
+    "type": "symfony-bundle",
+    "description": "Javiacei ExtraValidatorBundle",
+    "keywords": ["validation", "validator"],
+    "homepage": "https://github.com/javiacei/ExtraValidatorBundle",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Francisco Javier Aceituno Lapido",
+            "email": "fco.javier.aceituno@gmail.com",
+            "homepage": "https://github.com/javiacei"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.2"
+    },
+    "autoload": {
+        "psr-0": { "Javiacei\\ExtraValidatorBundle": "" }
+    },
+    "target-dir": "Javiacei/ExtraValidatorBundle"
+}
